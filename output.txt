@@ -1,0 +1,3 @@
+Average linear search comparisons: 4
+Average binary search comparisons: 2.4285714285714284
+Average interpolation search comparisons: 1
